@@ -16,6 +16,8 @@
 Explore techniques for bypassing restrictions on GPT models.
 
 - 🌟 | [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - A repository for advanced jailbreak strategies.
+- 🔥 | [GenggengSvan/Jailbreak-Observatory](https://github.com/GenggengSvan/Jailbreak-Observatory) - LLM Jailbreak Research Trend Analysis Repository.
+- 🔥 | [2knoah-glitch/ABYSS-AI-REWORK](https://github.com/2knoah-glitch/ABYSS-AI-REWORK)
 - 🔥 | [whitehackergeo/AI-JAILBREAKING-GEOHACKER-](https://github.com/whitehackergeo/AI-JAILBREAKING-GEOHACKER-)
 - 🔥 | [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker) - A Claude-Code-style terminal built for red-teaming LLMs
 - 🔥 | [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - A powerful tool for automated LLM fuzzing.
@@ -59,7 +61,6 @@ Find leaked prompts and system information from GPT agents.
 ## 🛡️ Prompt Injection
 Resources focused on exploiting or defending against prompt injections.
 
-- 🌟 | [AnthenaMatrix](https://github.com/AnthenaMatrix) - Comprehensive repository on prompt injection techniques.
 - 🔥 | [utkusen/promptmap](https://github.com/utkusen/promptmap) - Tool for mapping and analyzing prompt injections.
 - 🔥 | [microsoft/promptbench](https://github.com/microsoft/promptbench) - Benchmarking tool for prompt injection vulnerabilities.
 - [Cranot/chatbot-injections-exploits](https://github.com/Cranot/chatbot-injections-exploits) - Repository of exploits based on prompt injections in chatbots.
@@ -74,7 +75,7 @@ Resources focused on exploiting or defending against prompt injections.
 ## 🔐 Secure Prompting
 Repositories dedicated to securing prompts and mitigating vulnerabilities.
 
-- 🌟 | [Valhall-ai/prompt-injection-mitigations](https://github.com/Valhall-ai/prompt-injection-mitigations) - Mitigation strategies for prompt injections.
+- 🌟 | [x-zheng16/Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) - Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses.
 - 🔥 | [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - A curated list of GPT security best practices.
 - [onestardao/WFGY](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) – 16 failure modes for RAG and agent pipelines (incl. prompt-injection patterns) with concrete mitigation checklists.
 - [GPTGeeker/securityGPT](https://github.com/GPTGeeker/securityGPT) - Security-focused prompts for GPT models.
