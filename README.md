@@ -1,4 +1,4 @@
-![image](https://i.postimg.cc/HL8hRq2m/1.png)
+![Awesome AI Repos cover](assets/cover.png)
 
 ---
 
