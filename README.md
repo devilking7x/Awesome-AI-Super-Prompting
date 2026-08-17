@@ -2,39 +2,13 @@
 
 ---
 
-⭐⭐⭐⭐⭐ +4000 STARS | THANK YOU! ⭐⭐⭐⭐⭐
-
----
-
-## What will you find in V.2.0:
-- ChatGPT Jailbreaks
-- GPT Assistants Prompt Leaks
-- GPTs Prompt Injection
-- LLM Prompt Security
-- Super Prompts
-- Prompt Hack
-- Prompt Security
-- Ai Prompt Engineering
-- Adversarial Machine Learning
-
----
-
-- ⚠️ Into "Latest Jailbreaks" folder, just check latest additions for working Jailbreaks. ⚠️
-- ⚠️ If you find your secret prompts here and want it removed, please let me know ASAP. ⚠️
+⭐⭐⭐⭐⭐ This repo had +4000 STARS before Github restricted my old profile for no reason. ⭐⭐⭐⭐⭐
 
 ---
 
 ### Legend:
 - 🌟: Legendary!
 - 🔥: Hot Stuff
-
-### Jailbreak Hall Of Fame:
-- 🏆 | /elder-plinius
-- 🏆 | u/yell0wfever92
-- 🏆 | u/HORSELOCKSPACEPIRATE 
-- 🏆 | u/FamilyK1ng
-- 🏆 | u/getoffmylawn0014
-- 🏆 | u/Positive_Average_446 
 
 ---
 
@@ -189,37 +163,6 @@ Tools to create AI Automations.
 
 - [make.com](https://www.make.com/en) - Connect any app, data source, or AI model. Build and manage automations and AI agents – visually, in code, or with a prompt.
 - [patl4588/metercall-launch](https://metercall.ai/?v=a&src=github) - The new layer of the internet. 21M APIs. 727 modules. One prompt.
-
----
-
-## 🧠 Cyber-Albsecop GPT Agents
-Specialized GPT agents focused on cybersecurity and more.
-
-- [ALBSECOP | Cyber Security Master](https://flowgpt.com/p/albsecop-cyber-security-master) - GPT agent for mastering cybersecurity.
-- [VAMPIRE | Ultra Prompt Writer](https://flowgpt.com/p/vampire-ultra-prompt-writer) - GPT agent specializing in writing ultra-effective prompts.
-- [ORK | Super Prompt Optimizer](https://flowgpt.com/p/ork-super-prompt-optimizer) - GPT agent for optimizing prompts.
-- [MINOTAUR | Impossible Security Challenge!](https://flowgpt.com/p/m1n0t4ur-impossible-security-challenge) - A GPT agent offering challenging security tasks.
-- [KEVLAR | Anti-Leak System Prompts](https://flowgpt.com/p/kevlar-anti-leak-system-prompts) - Agent designed to create anti-leak system prompts.
-
----
-
-## To do for V3.00
-- Keep the repo updated and hot
-- Add more personal prompts
-- Add more external sources
-- Add instruction on how to use prompts
-
----
-
-## Star History
-
-<a href="https://star-history.com/#CyberAlbSecOP/Awesome_GPT_Super_Prompting&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CyberAlbSecOP/Awesome_GPT_Super_Prompting&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CyberAlbSecOP/Awesome_GPT_Super_Prompting&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CyberAlbSecOP/Awesome_GPT_Super_Prompting&type=Date" />
- </picture>
-</a>
 
 ---
 
