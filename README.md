@@ -35,6 +35,7 @@ Explore techniques for bypassing restrictions on GPT models.
 - [jackhhao/jailbreak-classification](https://huggingface.co/datasets/jackhhao/jailbreak-classification) - Dataset for classifying jailbreak prompts.
 - [rubend18/ChatGPT-Jailbreak-Prompts](https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts) - A dataset of jailbreak prompts for ChatGPT.
 - [deadbits/vigil-jailbreak-ada-002](https://huggingface.co/datasets/deadbits/vigil-jailbreak-ada-002) - Vigilant dataset for ADA-002 jailbreak attempts.
+- [h4sch/JailbreakPrompts](https://huggingface.co/datasets/h4sch/JailbreakPrompts) - A dataset of jailbreak prompts for ChatGPT.
 
 ---
 
