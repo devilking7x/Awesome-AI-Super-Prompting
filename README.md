@@ -16,6 +16,7 @@
 Explore techniques for bypassing restrictions on GPT models.
 
 - 🌟 | [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - A repository for advanced jailbreak strategies.
+- 🔥 | [whitehackergeo/AI-JAILBREAKING-GEOHACKER-](https://github.com/whitehackergeo/AI-JAILBREAKING-GEOHACKER-)
 - 🔥 | [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker) - A Claude-Code-style terminal built for red-teaming LLMs
 - 🔥 | [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - A powerful tool for automated LLM fuzzing.
 - 🔥 | [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - Methods to jailbreak various large language models.
