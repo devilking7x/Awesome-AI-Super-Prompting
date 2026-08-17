@@ -158,14 +158,6 @@ Communities and forums for discovering and sharing prompts.
 
 ---
 
-## ⚙️ Ai Automation Tools
-Tools to create AI Automations.
-
-- [make.com](https://www.make.com/en) - Connect any app, data source, or AI model. Build and manage automations and AI agents – visually, in code, or with a prompt.
-- [patl4588/metercall-launch](https://metercall.ai/?v=a&src=github) - The new layer of the internet. 21M APIs. 727 modules. One prompt.
-
----
-
 ![Awesome AI Repos cover](assets/ender.png)
 
 ---
