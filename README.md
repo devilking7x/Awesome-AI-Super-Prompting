@@ -17,6 +17,7 @@ Explore techniques for bypassing restrictions on GPT models.
 
 - 🌟 | [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - A repository for advanced jailbreak strategies.
 - 🔥 | [GenggengSvan/Jailbreak-Observatory](https://github.com/GenggengSvan/Jailbreak-Observatory) - LLM Jailbreak Research Trend Analysis Repository.
+- 🔥 | [yueliu1999/Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs)
 - 🔥 | [2knoah-glitch/ABYSS-AI-REWORK](https://github.com/2knoah-glitch/ABYSS-AI-REWORK)
 - 🔥 | [whitehackergeo/AI-JAILBREAKING-GEOHACKER-](https://github.com/whitehackergeo/AI-JAILBREAKING-GEOHACKER-)
 - 🔥 | [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker) - A Claude-Code-style terminal built for red-teaming LLMs
