@@ -129,13 +129,13 @@ Resources to master the craft of prompt engineering.
 
 - 🌟 | [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A list of awesome resources on prompt engineering.
 - 🔥 | [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - Another excellent list of prompt engineering resources.
-- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - Comprehensive collection of tutorials and implementations for Prompt Engineering techniques
+- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - Comprehensive collection of tutorials and implementations.
 - [circlestarzero/HackOpenAISystemPrompts](https://github.com/circlestarzero/HackOpenAISystemPrompts) - Hacking OpenAI system prompts.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - A guide to mastering prompt engineering.
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Comprehensive resource for prompt engineering.
 - [natnew/Awesome-Prompt-Engineering](https://github.com/natnew/Awesome-Prompt-Engineering) - More resources on awesome prompt engineering.
-- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution.
-- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard.
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Codex.
 - [promptingguide.ai](https://www.promptingguide.ai/) - An online guide to prompt engineering.
 - [promptdev.ai](https://promptdev.ai/) - Platform for developing and sharing prompts.
 - [learnprompting.org](https://learnprompting.org/docs/intro) - Learn the art of prompting from scratch.
