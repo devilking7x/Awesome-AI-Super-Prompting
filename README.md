@@ -134,8 +134,8 @@ Resources to master the craft of prompt engineering.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - A guide to mastering prompt engineering.
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Comprehensive resource for prompt engineering.
 - [natnew/Awesome-Prompt-Engineering](https://github.com/natnew/Awesome-Prompt-Engineering) - More resources on awesome prompt engineering.
-- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
-- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard.
 - [promptingguide.ai](https://www.promptingguide.ai/) - An online guide to prompt engineering.
 - [promptdev.ai](https://promptdev.ai/) - Platform for developing and sharing prompts.
 - [learnprompting.org](https://learnprompting.org/docs/intro) - Learn the art of prompting from scratch.
