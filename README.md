@@ -71,6 +71,7 @@ Resources focused on exploiting or defending against prompt injections.
 - [yunwei37/prompt-hacker-collections](https://github.com/yunwei37/prompt-hacker-collections) - Collection of prompt hacking methods and exploits.
 - [PromptTrace](https://prompttrace.airedlab.com) is a free, hands-on AI security training platform for practicing prompt injection, RAG poisoning, and tool exploitation against real LLMs.
 - [AdverserialAttack-InjectionPrompt](https://github.com/Moaad-Ben/AdverserialAttack-InjectionPrompt) - Adversarial attacks through prompt injections.
+- [devilking7x/skillbadge](https://github.com/devilking7x/skillbadge) - In-browser trust scanner for AI agent SKILL.md files: detects prompt-injection phrases, exfiltration URLs, curl|bash pipes, secrets, and obfuscated code; gives a 0-100 trust score with CI-friendly JSON report.
 
 ---
 
